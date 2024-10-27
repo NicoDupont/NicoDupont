@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=NicoDupont&show_icons=true&show=reviews&theme=transparent" width="45%" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoDupont&layout=compact&theme=transparent" width="45%" />
+
+
+
+
+
+
+
 <!--
 **NicoDupont/NicoDupont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

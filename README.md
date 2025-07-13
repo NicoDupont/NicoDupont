@@ -3,15 +3,13 @@
 I'm a Data Engineer and Analyst passionate about everything data-related. I love building data pipelines, exploring analytics, and working on personal projects that blend technology and creativity. My interests also include home automation, electronics, and DIY projects. Here you'll find all my experiments. Always learning, always building!
 
    <p align="left">
-      <a href="https://github.com/NicoDupont?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NicoDupont?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/NicoDupont?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NicoDupont?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Tools I use most
 
 <img align="left" alt="Sql/Mssql" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />

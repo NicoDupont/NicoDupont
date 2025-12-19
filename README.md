@@ -33,10 +33,10 @@ My cv : https://www.ndl-blog.net/cv/
 <a href="https://www.getdbt.com" target="_blank">
   <img align="left" alt="Dbt" title="Dbt" width="30px" style="padding-right:10px;" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-icon-sefw4nnptjlk5lk13atgvm.png/dbt-icon-2yxlz1fvy25mvn5scgnlw.png" />
 </a>
-
+<!--
 <a href="https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho-platform.html" target="_blank">
   <img align="left" alt="Pentaho" title="Pentaho Data Integration / BI" width="30px" style="padding-right:10px;" src="https://res-5.cloudinary.com/hbdyf1hp4/image/upload/q_auto/v1/images/pentaho-logo.png" />
-</a>
+</a>-->
 
 <a href="https://n8n.io" target="_blank">
   <img align="left" alt="n8n" title="n8n" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/123042623?s=280&v=4" />

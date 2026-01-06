@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Data Engineer and Analyst passionate about everything data-related. I love building data pipelines, exploring analytics, and working on personal projects that blend technology and creativity. My interests also include automation, home automation, electronics and DIY projects. Here you'll find all my publics experiments. Always learning, always building!  
+I'm an Analytics & Data Engineer passionate about everything data-related. I love building data pipelines, exploring analytics, and working on personal projects that blend technology and creativity. My interests also include automation, home automation, electronics and DIY projects. Here you'll find all my publics experiments. Always learning, always building!  
 
 My blog : https://www.ndl-blog.net/  
 My cv : https://www.ndl-blog.net/cv/

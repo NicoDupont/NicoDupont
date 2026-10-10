@@ -34,11 +34,11 @@ My cv : https://www.ndl-blog.net/cv/
   <img align="left" alt="Dbt" title="Dbt" width="30px" style="padding-right:10px;" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-icon-sefw4nnptjlk5lk13atgvm.png/dbt-icon-2yxlz1fvy25mvn5scgnlw.png" />
 </a>
 
-<a href="https://www.getdbt.com" target="_blank">
+<a href="https://slingdata.io/" target="_blank">
   <img align="left" alt="Slingdata" title="Slingdata" width="30px" style="padding-right:10px;" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1668195709739/-rhZar571.png?auto=compress,format&format=webp" />
 </a>
 
-<a href="https://www.getdbt.com" target="_blank">
+<a href="https://www.metabase.com/" target="_blank">
   <img align="left" alt="Metabase" title="Metabase" width="30px" style="padding-right:10px;" src="https://images.icon-icons.com/2699/PNG/512/metabase_logo_icon_170959.png" />
 </a>
 

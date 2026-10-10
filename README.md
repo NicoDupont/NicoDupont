@@ -33,6 +33,15 @@ My cv : https://www.ndl-blog.net/cv/
 <a href="https://www.getdbt.com" target="_blank">
   <img align="left" alt="Dbt" title="Dbt" width="30px" style="padding-right:10px;" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-icon-sefw4nnptjlk5lk13atgvm.png/dbt-icon-2yxlz1fvy25mvn5scgnlw.png" />
 </a>
+
+<a href="https://www.getdbt.com" target="_blank">
+  <img align="left" alt="Slingdata" title="Slingdata" width="30px" style="padding-right:10px;" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1668195709739/-rhZar571.png?auto=compress,format&format=webp" />
+</a>
+
+<a href="https://www.getdbt.com" target="_blank">
+  <img align="left" alt="Metabase" title="Metabase" width="30px" style="padding-right:10px;" src="https://images.icon-icons.com/2699/PNG/512/metabase_logo_icon_170959.png" />
+</a>
+
 <!--
 <a href="https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho-platform.html" target="_blank">
   <img align="left" alt="Pentaho" title="Pentaho Data Integration / BI" width="30px" style="padding-right:10px;" src="https://res-5.cloudinary.com/hbdyf1hp4/image/upload/q_auto/v1/images/pentaho-logo.png" />
